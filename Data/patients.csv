@@ -1,0 +1,16 @@
+patient_id,mrn,first_name,last_name,date_of_birth,gender,phone,email,address_line1,address_line2,city,state_code,zip_code,insurance_payer,insurance_member_id,emergency_contact_name,emergency_contact_phone,created_at
+1,MRN100001,Emma,Carter,1988-04-14,Female,214-555-1001,emma.carter@example.com,1420 Maple Ave,NULL,Dallas,TX,75201,Blue Cross Blue Shield,BCBS-TX-9001,Noah Carter,214-555-9001,2026-04-09T08:24:07.000Z
+2,MRN100002,Liam,Brooks,1979-11-22,Male,469-555-1002,liam.brooks@example.com,88 Lakeview Dr,Apt 3B,Plano,TX,75024,Aetna,AET-88321,Sophia Brooks,469-555-9002,2026-04-09T08:24:07.000Z
+3,MRN100003,Olivia,Nguyen,1994-02-05,Female,972-555-1003,NULL,2301 Cedar St,NULL,Richardson,TX,75080,UnitedHealthcare,UHC-22019,Daniel Nguyen,972-555-9003,2026-04-09T08:24:07.000Z
+4,MRN100004,Noah,Patel,1968-08-19,Male,NULL,noah.patel@example.com,11 Preston Hollow Rd,NULL,Dallas,TX,75230,Cigna,CIG-45671,Asha Patel,214-555-9004,2026-04-09T08:24:07.000Z
+5,MRN100005,Ava,Johnson,2001-12-30,Female,214-555-1005,ava.johnson@example.com,509 River Bend Ln,NULL,Garland,TX,75040,Humana,HUM-70992,NULL,NULL,2026-04-09T08:24:07.000Z
+6,MRN100006,William,Garcia,1983-06-11,Male,972-555-1006,william.garcia@example.com,760 Northgate Blvd,Unit 14,Irving,TX,75038,Blue Cross Blue Shield,BCBS-TX-9006,Maria Garcia,972-555-9006,2026-04-09T08:24:07.000Z
+7,MRN100007,Sophia,Miller,1991-01-17,Female,469-555-1007,sophia.miller@example.com,98 Arbor Creek,NULL,Frisco,TX,75033,Medicare,MCR-31007,James Miller,469-555-9007,2026-04-09T08:24:07.000Z
+8,MRN100008,James,Wilson,1959-09-03,Male,214-555-1008,NULL,401 Oak Terrace,NULL,Dallas,TX,75204,Medicare,MCR-31008,Linda Wilson,214-555-9008,2026-04-09T08:24:07.000Z
+9,MRN100009,Isabella,Davis,1986-03-25,Female,NULL,isabella.davis@example.com,712 Magnolia Ct,Suite 2,McKinney,TX,75069,Aetna,AET-88329,Mason Davis,NULL,2026-04-09T08:24:07.000Z
+10,MRN100010,Benjamin,Martinez,1997-07-09,Male,972-555-1010,benjamin.martinez@example.com,55 Canyon Trail,NULL,Mesquite,TX,75149,UnitedHealthcare,UHC-22025,Elena Martinez,972-555-9010,2026-04-09T08:24:07.000Z
+11,MRN100011,Mia,Lopez,1974-10-28,Female,469-555-1011,mia.lopez@example.com,144 Cherry Blossom Way,NULL,Allen,TX,75013,Cigna,CIG-45682,Lucas Lopez,469-555-9011,2026-04-09T08:24:07.000Z
+12,MRN100012,Lucas,Hernandez,1981-05-16,Male,214-555-1012,NULL,809 Pine Knoll,NULL,Dallas,TX,75211,Blue Cross Blue Shield,BCBS-TX-9012,Ana Hernandez,214-555-9012,2026-04-09T08:24:07.000Z
+13,MRN100013,Charlotte,Clark,1990-09-12,Female,972-555-1013,charlotte.clark@example.com,2308 Willow Park,Apt 11,Plano,TX,75075,NULL,NULL,Ethan Clark,972-555-9013,2026-04-09T08:24:07.000Z
+14,MRN100014,Henry,Lewis,1965-01-07,Male,469-555-1014,henry.lewis@example.com,17 Briarwood Dr,NULL,Richardson,TX,75081,Humana,HUM-71014,Grace Lewis,469-555-9014,2026-04-09T08:24:07.000Z
+15,MRN100015,Amelia,Walker,2003-04-21,Female,214-555-1015,NULL,925 Meadow Creek,NULL,Garland,TX,75041,UnitedHealthcare,UHC-22031,NULL,NULL,2026-04-09T08:24:07.000Z
